@@ -73,7 +73,7 @@ The system combines **object detection, classification, anomaly detection, and f
 ## 📊 Dataset
 
 **Google Drive Link:**
-👉 https://drive.google.com/drive/folders/1P-PO7HvhOdZtozvzNPLpbNCiGZRY_XaZ?usp=sharing
+👉 [https://drive.google.com/drive/folders/1P-PO7HvhOdZtozvzNPLpbNCiGZRY_XaZ?usp=sharing](https://drive.google.com/drive/folders/1FB9KOak--jIR9sfu4Yv8WiAjMUCuHywr)
 
 
 ## 🎯 Use Cases
